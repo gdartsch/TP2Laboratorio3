@@ -1,0 +1,6 @@
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2E\bin\Debug\TP2E.exe.config
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2E\bin\Debug\TP2E.exe
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2E\bin\Debug\TP2E.pdb
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2E\obj\Debug\TP2E.csproj.CoreCompileInputs.cache
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2E\obj\Debug\TP2E.exe
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2E\obj\Debug\TP2E.pdb

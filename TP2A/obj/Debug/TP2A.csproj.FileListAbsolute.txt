@@ -1,0 +1,7 @@
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\bin\Debug\TP2A.exe.config
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\bin\Debug\TP2A.exe
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\bin\Debug\TP2A.pdb
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\obj\Debug\TP2A.csproj.AssemblyReference.cache
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\obj\Debug\TP2A.csproj.CoreCompileInputs.cache
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\obj\Debug\TP2A.exe
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\TP2Prog3\TP2A\obj\Debug\TP2A.pdb
